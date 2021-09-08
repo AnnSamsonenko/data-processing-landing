@@ -1,7 +1,11 @@
-/*
- * Главный файл стилей.
- * Все паршалы подключаются сюда.
- */
-
-// Стили для файла с примером HTML-фрагмента
-@import './example';
+//LAYOUT
+@import './layout/header';
+@import './layout/hero';
+@import './layout/your-choice';
+@import './layout/business-traffic';
+@import './layout/simple-ways';
+@import './layout/create-project';
+@import './layout/invest-property';
+@import './layout/help-finding-info';
+@import './layout/to-get-down';
+@import './layout/footer';
